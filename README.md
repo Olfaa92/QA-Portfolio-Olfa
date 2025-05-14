@@ -46,7 +46,7 @@ Ce dépôt regroupe mes projets d'apprentissage en **test manuel**, **test autom
 - **Forces :** Gestion rigoureuse, documentation claire, bonne communication inter-équipes
 - **Objectif :** Intégrer une équipe QA, avec une montée en compétences progressive en automatisation et test API.
 
-**LinkedIn :** [https://linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)
+**LinkedIn :** www.linkedin.com/in/olfa-ghorbel-184226107
 **Contact :** olfaa.ghorbel@gmail.com
 
 ---
